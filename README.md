@@ -7,7 +7,7 @@ To make a move, click on a white space on the board to place your colored square
 
 Magenta moves first and then pink will follow. 
 
-The game heavily favors the starting player and they should always win if player optimally. 
+The game heavily favors the starting player and they should always win if played optimally. 
 
 Enjoy.
 
